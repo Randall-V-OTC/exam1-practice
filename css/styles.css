@@ -1,0 +1,15 @@
+body {
+    background-color: #3D405B;
+}
+
+.page-contents {
+    margin: 4.5rem auto 4.5rem auto;
+    background-color: #E07A5F;
+    padding: 2rem;
+    border: 1.5px solid black;
+    border-radius: 0px 15px 0px 15px;
+}
+
+form > input {
+    margin: 0.5rem 0px 0.5rem 0px;
+}
